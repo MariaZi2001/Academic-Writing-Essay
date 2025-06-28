@@ -1,4 +1,3 @@
-# Academic-Writing-Essay
 # Trump 2025 Inaugural Speech – Linguistic Analysis
 
 This notebook analyzes Donald Trump’s 2025 inaugural speech using simple Python tools. It focuses on how language creates group identity through:
